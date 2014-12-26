@@ -1,0 +1,19 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Andrew",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "azure-storage": "^0.4.1",
+    "express": "3.4.4",
+    "jade": "*",
+    "nconf": "^0.7.1",
+    "node-uuid": "1.4.2",
+    "stylus": "*"
+  }
+}
